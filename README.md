@@ -15,7 +15,7 @@ The model was compiled and trained on the training dataset. After training, pred
 ## Results
 The model's predictions were visualized alongside actual Bitcoin prices. The results showed strong performance, with metrics indicating a low Root Mean Squared Error (RMSE) of 3309.22, a Mean Absolute Error (MAE) of 1777.60, and an R² Score of 0.9647. 
 
-![Predicted vs Actual BTC Prices](path/to/your/image.png) <!-- Replace with the path to your image -->
+![Predicted vs Actual BTC Prices](data/result.png) <!-- Replace with the path to your image -->
 
 ## Conclusion
 The LSTM model effectively forecasts Bitcoin prices, demonstrating significant potential for investment strategy development despite market volatility.
